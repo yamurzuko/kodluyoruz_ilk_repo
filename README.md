@@ -10,4 +10,4 @@ Projeyi klonlayın
 
 # License
 
-[MIT](https://choosealicense.com/licenses/mit/)ßß
+[MIT](https://choosealicense.com/licenses/mit/)
