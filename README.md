@@ -6,8 +6,8 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz) Front-End Eğitiminde
 
 Projeyi klonlayın
 
-' git clone https://github.com/yamurzuko/kodluyoruz_ilk_repo.git '
+`git clone https://github.com/yamurzuko/kodluyoruz_ilk_repo.git`
 
 # License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)ßß
